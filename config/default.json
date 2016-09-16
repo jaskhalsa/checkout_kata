@@ -1,0 +1,22 @@
+{
+    "A": {
+        "value": "50",
+        "specialOffers": {
+            "count": "3",
+            "price": "120"
+        }
+    },
+    "B": {
+        "value": "30",
+        "specialOffers": {
+            "count": "2",
+            "price": "45"
+        }
+    },
+    "C": {
+        "value": "60"
+    },
+    "D": {
+        "value": "99"
+    }
+}
